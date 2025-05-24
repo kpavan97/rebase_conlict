@@ -1,3 +1,10 @@
+<<<<<<< HEAD
 gagan
 air
 bhoomi
+=======
+hello
+shark
+fish
+crab
+>>>>>>> c4e1168 (commites)
